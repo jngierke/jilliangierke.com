@@ -35,7 +35,7 @@ body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
-    color: #f2ede3;
+    color: #ffffff;
     background: #333;
     font-size: 0.9em;
     font-weight: 300;
@@ -73,7 +73,7 @@ a:hover {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-	background: url('../images/back2.jpg') no-repeat; 
+	background: url('../images/backk2.jpg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -82,8 +82,7 @@ a:hover {
 
 .bl-main > section:nth-child(2) {
 	top: 0;
-	left: 50%;
-	background: url('../images/back3.jpg') no-repeat; 
+	left: 50%; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -92,8 +91,7 @@ a:hover {
 
 .bl-main > section:nth-child(3) {
 	top: 50%;
-	left: 0;
-	background: url('../images/back4.jpg') no-repeat; 
+	left: 0; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -103,7 +101,7 @@ a:hover {
 .bl-main > section:nth-child(4) {
 	top: 50%;
 	left: 50%;
-	background: url('../images/back5.jpg') no-repeat; 
+	background: url('../images/back3.jpeg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -141,7 +139,7 @@ a:hover {
 }
 
 .bl-box h2 {
-	text-align: center;
+	text-align: right;
 	margin: 0;
 	padding: 20px;
 	width: 100%;
