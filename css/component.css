@@ -83,6 +83,7 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%; 
+	background: #8491A7; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -92,6 +93,7 @@ a:hover {
 .bl-main > section:nth-child(3) {
 	top: 50%;
 	left: 0; 
+	background: #213454; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
